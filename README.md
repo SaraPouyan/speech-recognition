@@ -1,6 +1,5 @@
 <div align="center">
-    <video width="320" height="240" controls>
-     <source src="./assets/cover.mp4" alt="Logo" width="" height="200">
+    <video src="./assets/cover.mp4" alt="Logo" width="" height="200">
     </video>
 <h1 align="center">Speech Recognition</h1>
 </div>
