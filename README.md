@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="./assets/cover.mp4" alt="Logo" width="" height="200">
+    <video width="320" height="240" controls>
+     <source src="./assets/cover.mp4" alt="Logo" width="" height="200">
+    </video>
 <h1 align="center">Speech Recognition</h1>
 </div>
 
@@ -7,7 +9,9 @@
 <div align="justify">Speech Recognition is the task of converting spoken language into text, playing a pivotal role in audio processing, by enabling machines to comprehend and interpret human speech. This technology is integrated into various aspects of our daily lives, including voice-controlled interfaces, transcription services for meetings and interviews, hands-free operation of devices, and enhanced accessibility for individuals with disabilities. Popular speech-to-text voice assistants like Siri, Alexa, Google's Assistant, and Microsoft's Cortana demonstrate the capability to interpret human speech and respond in a synthesized voice.</div>
 <br/>
 <div class="sample">
-          <audio src="./assets/LJ-audio.mp4" controls preload="metadata"></audio>
+          <video width="320" height="240" controls>
+             <source src="./assets/LJ-audio.mp4" controls preload="metadata">
+           </video>
           <p>The Middle Ages brought calligraphy to perfection, and it was natural therefore</p>
 </div>
         
